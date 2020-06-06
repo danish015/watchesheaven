@@ -1,0 +1,110 @@
+.navbar{
+    background-color:#424242 !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+.MENS{
+    margin-top: 100px !important;
+}
+.card.card1.card2.card3{
+    width: 200px !important;
+    height: auto !important;
+    margin-bottom: 10px;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color:#424242 ;
+    margin: 20px;
+}
+.heading > h2{
+    text-shadow: 2px 2px 4px black;
+}
+.mens1{
+    margin-top: 50px !important;
+}
+.card4.card5.card6.card7{
+    width: 200px !important;
+    height: auto !important;
+    margin-bottom: 10px;
+}
+.woman{
+    margin-top: 100px;
+}
+.card8.card9.card10.card11{
+    width: 200px !important;
+    height: auto !important;
+    margin-bottom: 10PX;
+}
+.woman1{
+    margin-top: 50px;
+}
+.card12.card13.card14.card15{
+    width: 200px !important;
+    height: auto !important;
+    margin-bottom: 10px;
+}
+.heading1{
+    text-align: center;
+    font-weight: bold;
+    color: #424242 ;
+margin: 20px;
+}
+.heading1 > h2{
+    text-shadow: 2px 2px 4px black;
+}
+.shipcard1,.shipcard2,.shipcard3{
+    display: flex;
+    width: 300px;
+    height: 150px;
+    background-color: white;
+    box-shadow: 2px 4px 5px gray;
+    justify-content: center;
+    align-items: center;
+
+}
+.fa-truck{
+    font-size: 50px!important;
+    margin-right: 10px;
+    color:#424242;
+}
+.fa-lock{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: #424242;
+}
+.fa-thumbs-o-up{
+    font-size: 50px !important;
+margin-right: 10px;
+color: #424242;
+}
+.shipcard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.maindiv{
+    margin-top: 10px;
+    background-color:#424242 ;
+color:white;
+}
+.ul.ul1{
+    color:#424242 ;
+}
+.copy{
+    font-size: 50px;
+    margin-right: 10px;
+    color:white;
+}
+.about{
+    margin: 100px;
+}
+.form{
+    text-align: center;
+}
+.table{
+    text-align: center;
+}
